@@ -108,3 +108,7 @@ Output: arr[] = {8, 8, 8, 2, 2, 5, 5, 6}
 Input: arr[] = {2, 5, 2, 6, -1, 9999999, 5, 8, 8, 8}
 
 Output: arr[] = {8, 8, 8, 2, 2, 5, 5, 6, -1, 9999999}
+
+
+Video Explanation:
+https://www.youtube.com/user/lavanyaboj/videos?view_as=subscriber
